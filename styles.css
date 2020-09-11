@@ -29,7 +29,7 @@ body {
     display:flex;
     flex-direction: column;
     justify-content: space-around;
-     align-item: center;
+     align-items: center;
 }
 
 footer{
@@ -44,7 +44,8 @@ footer{
     display:flex;
     flex-direction: row;
     justify-content: space-around;
-     align-item: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .about {
@@ -54,6 +55,7 @@ footer{
     padding: 5%;
     border: 2px solid rgb(87, 142, 153);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+    flex-basis: 200px;
 }
 
 .works {
@@ -62,6 +64,7 @@ footer{
     padding: 5%;
     border: 2px solid rgb(87, 142, 153);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+    flex-basis: 200px;
 }
 
 h1 {
