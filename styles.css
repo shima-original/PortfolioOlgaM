@@ -100,16 +100,18 @@ a {
     display:flex;
     flex-direction: row;
     justify-content: space-around;
+    flex-wrap: wrap;
+     align-item: center;
 }
 
 .container{
     flex-grow: 1;
-    align-self: center;
+   
 }
 
 footer{
     flex-grow: 0;
-    align-self: flex-end;
+   
 }
 
 footer a {
