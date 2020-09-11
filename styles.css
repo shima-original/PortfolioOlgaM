@@ -96,9 +96,11 @@ a {
     line-height: 1.5em;
 }
 
-.cont a {
+.second .cont a {
     float: bottom;
     font-size: 150%;
     color: black;
+    margin: 0;
+    Padding: 0;
 }
 
