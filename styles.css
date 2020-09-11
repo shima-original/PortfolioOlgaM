@@ -95,3 +95,7 @@ a {
     color: hsl(249, 48%, 26%);
     line-height: 1.5em;
 }
+
+.cont {
+    float: bottom;
+}
