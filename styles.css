@@ -98,15 +98,17 @@ a {
 
 .fbox{
     display:flex;
-    align-self: center;
+  
 }
 
 .container{
     flex-grow: 1;
+    align-self: center;
 }
 
 footer{
     flex-grow: 0;
+    align-self: flex-end;
 }
 
 footer a {
