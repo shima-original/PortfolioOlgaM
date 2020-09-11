@@ -96,6 +96,19 @@ a {
     line-height: 1.5em;
 }
 
+.fbox{
+    display:flex;
+    align-self: center;
+}
+
+.container{
+    flex-grow: 1;
+}
+
+footer{
+    flex-grow: 0;
+}
+
 footer a {
  
     font-size: 150%;
