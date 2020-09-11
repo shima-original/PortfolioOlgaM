@@ -98,4 +98,8 @@ a {
 
 .cont {
     float: bottom;
+    font-size: 150%;
 }
+
+a .cont {
+    color: black;
