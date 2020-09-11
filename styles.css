@@ -96,10 +96,9 @@ a {
     line-height: 1.5em;
 }
 
-.cont {
+.cont a {
     float: bottom;
     font-size: 150%;
+    color: black;
 }
 
-a .cont {
-    color: black;
