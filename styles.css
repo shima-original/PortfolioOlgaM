@@ -115,6 +115,11 @@ a {
     line-height: 1.5em;
 }
 
+.but {
+    border-radius: 20%;
+    padding: 5%;
+    background-color: #F0808D;
+}
 
 footer a {
  
