@@ -65,7 +65,7 @@ footer{
     border: 2px solid rgb(87, 142, 153);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
     flex-basis: 300px;
-    line-height: 4em;
+    line-height: 3.5em;
 }
 
 h1 {
