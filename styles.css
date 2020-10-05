@@ -50,7 +50,6 @@ footer{
 
 .about {
     line-height: 3em;
-    height: 30%;
     background-color: rgb(202, 226, 235);
     border-radius: 20px;
     padding: 5%;
@@ -62,11 +61,11 @@ footer{
 .works {
     background-color: rgb(202, 226, 235);
     border-radius: 20px;
-    height: 30%;
     padding: 5%;
     border: 2px solid rgb(87, 142, 153);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
     flex-basis: 300px;
+    line-height: 4em;
 }
 
 h1 {
