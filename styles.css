@@ -116,8 +116,8 @@ a {
 }
 
 .but {
-    border-radius: 20%;
-    padding: 5%;
+    border-radius: 10%;
+    padding: 5% 10% 5% 10%;
     background-color: #87CEFA;
 }
 
