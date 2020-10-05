@@ -12,7 +12,7 @@ body {
 }
 
 .first {
-    background-color: #6495ED;
+    background-color: #87CEFA;
     box-sizing: border-box;
     margin: 7%;
     padding: 10%;
@@ -118,7 +118,7 @@ a {
 .but {
     border-radius: 20%;
     padding: 5%;
-    background-color: #F0808D;
+    background-color: #87CEFA;
 }
 
 footer a {
