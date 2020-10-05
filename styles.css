@@ -115,14 +115,16 @@ a {
 }
 
 .but {
-    border-radius: 10%;
     background-color: #E6E6FA;
+    box-sizing: border-box;
+    margin: 7%;
+    padding: 10%;
+    border-radius: 20px;
 }
 
 footer a {
  
     font-size: 200%;
     color: black;
-    padding: 30px;
 }
 
