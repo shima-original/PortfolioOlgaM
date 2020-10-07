@@ -5,6 +5,7 @@
 }
 
 body {
+    background-color: #FFEBCD;
     background-image: linear-gradient(to bottom, #DEB887, #FFEFD5);
     font-size: 62.5%;
     line-height: 2em;
