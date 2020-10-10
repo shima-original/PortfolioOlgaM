@@ -115,17 +115,18 @@ a {
     line-height: 1.5em;
 }
 
-/*.but {
-    background-color: #E6E6FA;
-    box-sizing: border-box;
-    margin: 7%;
-    padding: 10%;
-    border-radius: 20px;
-} */
-
-footer a {
- 
-    font-size: 250%;
+button {
+    background-color: #9999FF;
     color: black;
-}
+    border: none;
+    border-radius: 20px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .5), 
+        -5px -5px 10px rgba(0, 0, 0, .5);
+} 
+
 
