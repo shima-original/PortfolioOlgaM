@@ -117,7 +117,6 @@ a {
 
 button {
     background-color: #9999FF;
-    color: black;
     border: none;
     border-radius: 20px;
     padding-left: 20px;
@@ -131,5 +130,6 @@ button {
 
 a button {
     text-decoration: none;
+    color: black;
 }
 
