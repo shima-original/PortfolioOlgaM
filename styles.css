@@ -110,10 +110,26 @@ li {
   
 }
 
-a {
-    color: hsl(249, 48%, 26%);
+.works a {
     line-height: 1.5em;
 }
+
+.works a:link {
+    color: #0000FF;
+}
+
+.works a:visited {
+    color: #00CED1;
+}
+
+.works a:hover {
+    color: #00FFFF;
+}
+
+.works a:active {
+    color: #FFA500;
+}
+
 
 button {
     background-color: #9999FF;
