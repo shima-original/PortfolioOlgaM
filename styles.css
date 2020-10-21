@@ -13,12 +13,10 @@ body {
 }
 
 .first {
-    background-color: #AFEEEE;
-    color: white;
+    color: black;
     box-sizing: border-box;
     margin: 7%;
     padding: 10%;
-    border-radius: 20px;
 }
 
 .second {
