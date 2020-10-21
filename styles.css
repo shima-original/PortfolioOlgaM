@@ -13,7 +13,8 @@ body {
 }
 
 .first {
-    background-color: #00CED1;
+    background-color: #AFEEEE;
+    color: white;
     box-sizing: border-box;
     margin: 7%;
     padding: 10%;
