@@ -133,13 +133,13 @@ li {
 
 button {
     background-color: #ee432e;
-    background-image: -webkit-linear-gradient(top. #ee432e 0%. #c63929 50%. #b51700 50%. #891100100%);
-    background-image: -moz-linear-gradient(top. #ee432e 0%. #c63929 50%. #b51700 50%. #891100100%);
-    background-image: -o-linear-gradient(top. #ee432e 0%. #c63929 50%. #b51700 50%. #891100100%); 
-    background-image: linear-gradient(top. #ee432e 0%. #c63929 50%. #b51700 50%. #891100100%); 
+    background-image: -webkit-linear-gradient(top, #ee432e 0%, #c63929 50%, #b51700 50%, #891100100%);
+    background-image: -moz-linear-gradient(top, #ee432e 0%, #c63929 50%, #b51700 50%, #891100100%);
+    background-image: -o-linear-gradient(top, #ee432e 0%, #c63929 50%, #b51700 50%, #891100100%); 
+    background-image: linear-gradient(top, #ee432e 0%, #c63929 50%, #b51700 50%, #891100100%); 
     border: 1px solid #951100;
-    box-shadow: inset 0px 0px 0px 1px rgba(255. 115. 100. 0.4). 0 1px 3px #333333;
-    text-shadow: 0px -1px 1px rgba(0. 0. 0. 0.8);
+    box-shadow: inset 0px 0px 0px 1px rgba(255, 115, 100, 0.4). 0 1px 3px #333333;
+    text-shadow: 0px -1px 1px rgba(0, 0, 0, 0.8);
     border-radius: 20px;
     padding-left: 20px;
     padding-right: 20px;
