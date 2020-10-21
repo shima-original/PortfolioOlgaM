@@ -149,3 +149,11 @@ button a {
     color: black;
 }
 
+button a:hover {
+    background-image: -webkit-linear-gradient(top. #ee432e 0%. #c63929 50%. #b51700 50%. #891100100%);
+    background-image: -moz-linear-gradient(top. #ee432e 0%. #c63929 50%. #b51700 50%. #891100100%);
+    background-image: -o-linear-gradient(top. #ee432e 0%. #c63929 50%. #b51700 50%. #891100100%); 
+    background-image: linear-gradient(top. #ee432e 0%. #c63929 50%. #b51700 50%. #891100100%);
+}
+
+
