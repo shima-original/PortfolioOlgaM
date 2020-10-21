@@ -5,8 +5,8 @@
 }
 
 body {
-    background-color: #FFEBCD;
-    background-image: linear-gradient(to bottom, #E0FFFF, #5F9EAO);
+    background-color: #E0FFFF;
+    background-image: linear-gradient(top, #E0FFFF, #5F9EAO);
     font-size: 62.5%;
     line-height: 50px;
     font-family: Arial, Helvetica, sans-serif;
