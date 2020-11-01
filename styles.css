@@ -113,22 +113,20 @@ li {
 
 .works a {
     line-height: 1.5em;
-}
-
-.works a:link {
-    color: #0000FF;
+    color: #207EBF;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 2px solid #F60;
 }
 
 .works a:visited {
-    color: #00CED1;
+    color: #6E97BF;
 }
 
 .works a:hover {
-    color: #00FFFF;
-}
-
-.works a:active {
-    color: #FFA500;
+    color: #FFF;
+    background-color: #6E97BF;
+    border-bottom-color: #6E97BF;
 }
 
 
