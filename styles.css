@@ -17,6 +17,7 @@ body {
     box-sizing: border-box;
     margin: 7%;
     padding: 10%;
+    line-height: 30px;
 }
 
 .second {
