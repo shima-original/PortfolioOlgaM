@@ -13,6 +13,7 @@ body {
 }
 
 .first {
+    font-size: 50%;
     color: black;
     box-sizing: border-box;
     margin: 7%;
