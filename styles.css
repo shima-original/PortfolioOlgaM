@@ -159,4 +159,10 @@ button a:hover {
    color: white;
 }
 
+button a:active {
+    -webkit-translate(1px, 2px);
+    -ms-translate(1px, 2px);
+    translate(1px, 2px);
+}
+
 
