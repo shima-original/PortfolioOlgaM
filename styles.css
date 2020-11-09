@@ -160,9 +160,9 @@ button a:hover {
 }
 
 button a:active {
-    -webkit-translate(1px,2px);
-    -ms-translate(1px,2px);
-    translate(1px,2px);
+    -webkit-transform: translate(1px,2px);
+    -ms-transform: translate(1px,2px);
+    transform: translate(1px,2px);
 }
 
 
