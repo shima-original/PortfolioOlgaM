@@ -57,7 +57,7 @@ footer{
     padding: 5%;
     border: 2px solid rgb(87, 142, 153);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
-    flex-basis: 300px;
+    
     margin-top: 10%;
     margin-bottom: 10%;
 }
@@ -68,7 +68,7 @@ footer{
     padding: 5%;
     border: 2px solid rgb(87, 142, 153);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
-    flex-basis: 300px;
+ 
     line-height: 3.5em;
     margin-top: 10%;
     margin-bottom: 10%;
