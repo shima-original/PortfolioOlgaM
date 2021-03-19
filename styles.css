@@ -49,6 +49,7 @@ footer{
 }
 
 .about {
+    flex: 2;
     line-height: 3.1em;
     background-color: rgb(202, 226, 235);
     border-radius: 20px;
@@ -59,6 +60,7 @@ footer{
 }
 
 .works {
+    flex: 1;
     background-color: rgb(202, 226, 235);
     border-radius: 20px;
     padding: 5%;
