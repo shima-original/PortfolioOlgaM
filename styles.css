@@ -41,7 +41,7 @@ footer{
 
 
 .container{
-    flex-grow: 1; 
+    width: 80%;
     display: -webkit-flex;
     display:flex;
     flex-flow: row wrap;
