@@ -57,8 +57,7 @@ footer{
     padding: 5%;
     border: 2px solid rgb(87, 142, 153);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);   
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin: 10%;
 }
 
 .works {
@@ -70,8 +69,7 @@ footer{
     border: 2px solid rgb(87, 142, 153);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
     line-height: 3.5em;
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin: 10%;
 }
 
 h1 {
